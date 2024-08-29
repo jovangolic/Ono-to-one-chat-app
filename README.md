@@ -4,7 +4,7 @@ One On One Chat application with Spring boot & WebSocket
 ## Overview
 One-to-one-chat-app is java web application that allows you to comumnicated with other users. It is websocket application. WebSocket is a communication protocol that enables two-way communication between client and server over a single, persistent TCP connection. Unlike classic HTTP, where communication takes place on the basis of requests and responses, WebSocket allows the server to send data to the client without the need for the client to send a request first.
 
-##Notes
+## Notes
 - Before you run application, first, you need to create database. In MySQL Workbench, type this: 
 - DROP SCHEMA IF EXISTS chatapp_db;
 - CREATE SCHEMA chatapp_db DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
@@ -24,16 +24,16 @@ One-to-one-chat-app is java web application that allows you to comumnicated with
 - Installation
 - Technologies
 
-##Features
+## Features
 - One to one chat application
 - Secure communication
 - Persistent chat
 
-##Installation
+## Installation
 Provide step-by-step instructions on how to install and set up your project locally.
 
 # Clone the repository
-git clone https://github.com/jovangolic/One-to-one-chat-app
+git clone https://github.com/jovangolic/Ono-to-one-chat-app
 
 # Change into the project directory
 cd your-project
@@ -41,7 +41,7 @@ cd your-project
 # Build the project
 ./mvnw clean install
 
-##Technologies
+## Technologies
 This project is mainly implement using the following technologies
 - Websocket
 - Spring Boot 3.x.x
