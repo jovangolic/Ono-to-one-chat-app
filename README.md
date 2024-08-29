@@ -11,15 +11,56 @@ One-to-one-chat-app is java web application that allows you to comumnicated with
 - USE chat_db;
 - When you run your application (e.g. Eclipse) in console you'll get random generated password which you need to copy out.
 - After that, open browser, type localhost:8080, press enter;
-- You'll get this window![Screenshot 2024-08-28 at 14-03-38 Please sign in](https://github.com/user-attachments/assets/d35dc194-f1f4-4bb4-ac28-7dbc89b48e34)
+- You'll get this window!
+- [Screenshot 2024-08-28 at 14-03-38 Please sign in](https://github.com/user-attachments/assets/d35dc194-f1f4-4bb4-ac28-7dbc89b48e34)
 - When you typed your given credentials you'll get this window 
-![Screenshot 2024-08-29 at 16-29-45 Chat Application](https://github.com/user-attachments/assets/e4914466-a631-4f8a-91ee-72fb7a4ae19d)
+-![Screenshot 2024-08-29 at 16-29-45 Chat Application](https://github.com/user-attachments/assets/e4914466-a631-4f8a-91ee-72fb7a4ae19d)
 -After that, chat application will be shown 
-![Screenshot 2024-08-29 at 16-31-18 Chat Application](https://github.com/user-attachments/assets/a46fd3a9-9048-4972-b418-9766e92c6622)
+-![Screenshot 2024-08-29 at 16-31-18 Chat Application](https://github.com/user-attachments/assets/a46fd3a9-9048-4972-b418-9766e92c6622)
 
 ## Table of Contents
 
-- [Features]
-- [Installation]
-- [Technologies]
+- Features
+- Installation
+- Technologies
+
+##Features
+- One to one chat application
+- Secure communication
+- Persistent chat
+
+##Installation
+Provide step-by-step instructions on how to install and set up your project locally.
+
+# Clone the repository
+git clone https://github.com/jovangolic/One-to-one-chat-app
+
+# Change into the project directory
+cd your-project
+
+# Build the project
+./mvnw clean install
+
+##Technologies
+This project is mainly implement using the following technologies
+- Websocket
+- Spring Boot 3.x.x
+- MySQL
+- Javascript
+- HTML
+- CSS   
+
+### Author
+- Jovan Golic
+
+# Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+# License
+
+This project is licensed under the MIT License. See the LICENSE file for details.   
+
+    
+
 
